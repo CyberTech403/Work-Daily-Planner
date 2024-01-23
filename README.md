@@ -18,6 +18,7 @@ The application is implemented using a simple calendar with dynamic HTML and CSS
 
 <p align="center">
 Click here to use this application
+https://cybertech403.github.io/Daily-Planner/
 
 <p align="center">
 <img src="https://github.com/CyberTech403/Daily-Planner/blob/main/assets/screenshots/Daily-Planner-GIF.gif" width = "80%" >
