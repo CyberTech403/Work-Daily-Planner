@@ -25,4 +25,4 @@ https://cybertech403.github.io/Daily-Planner/
 
 ## Installation
 
-There is no installation required to use this application.   
+No installation required to use this application.   
