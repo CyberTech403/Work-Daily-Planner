@@ -5,7 +5,7 @@ This application designed for employees with busy schedules, enables users to ef
 The user-friendly daily planner displays the current day prominently, features:
 
 *  Timeblocks for standard business hours, 
-*  Color-codes timeblocks based on
+*  Colour-codes timeblocks based on
     - Past (Gray)🌫️ 
     - Present (Red)🟥 
     - Future (Green) 🟩 
