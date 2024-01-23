@@ -17,7 +17,6 @@ The application is implemented using a simple calendar with dynamic HTML and CSS
 ## Page Preview 
 
 <p align="center">
-Click here to use this application
 https://cybertech403.github.io/Daily-Planner/
 
 <p align="center">
